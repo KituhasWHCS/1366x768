@@ -1,7 +1,7 @@
-﻿URLDownloadToFile, https://raw.githubusercontent.com/KituhasWHCS/keys/main/fisher.txt, %A_Temp%\d3d91.txt
-URLDownloadToFile, https://raw.githubusercontent.com/KituhasWHCS/keys/main/miner.txt, %A_Temp%\d3d92.txt
-URLDownloadToFile, https://raw.githubusercontent.com/KituhasWHCS/keys/main/zavod.txt, %A_Temp%\d3d93.txt
-URLDownloadToFile, https://raw.githubusercontent.com/KituhasWHCS/keys/main/run.txt, %A_Temp%\d3d94.txt
+﻿URLDownloadToFile, https://raw.githubusercontent.com/KituhasWHCS/1366x768/refs/heads/main/fisher.txt, %A_Temp%\d3d91.txt
+URLDownloadToFile, https://raw.githubusercontent.com/KituhasWHCS/1366x768/refs/heads/main/miner.txt, %A_Temp%\d3d92.txt
+URLDownloadToFile, https://raw.githubusercontent.com/KituhasWHCS/1366x768/refs/heads/main/zavod.txt, %A_Temp%\d3d93.txt
+URLDownloadToFile, https://raw.githubusercontent.com/KituhasWHCS/1366x768/refs/heads/main/run.txt, %A_Temp%\d3d94.txt
 
 CheckKeyStatus(filePath, statusControl, dateControl) {
     ; Получаем ключ с ПК
